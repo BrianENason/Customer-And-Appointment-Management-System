@@ -1,0 +1,84 @@
+******************
+
+At: 2021-04-30T23:35:12.160746900-07:00[America/Los_Angeles] 
+Username: test
+and Password: test 
+were entered into the login screen with  Great Success!
+
+******************
+
+At: 2021-05-01T00:53:44.127803900-07:00[America/Los_Angeles] 
+Username: test
+and Password: test 
+were entered into the login screen with  Great Success!
+
+******************
+
+At: 2021-06-04T10:04:48.821827500-07:00[America/Los_Angeles] 
+Username: brian
+and Password: nason 
+were entered into the login screen with  Disappointing Failure!
+
+******************
+
+At: 2021-06-04T10:04:52.491037300-07:00[America/Los_Angeles] 
+Username: test
+and Password: test 
+were entered into the login screen with  Great Success!
+
+******************
+
+At: 2021-06-04T10:16:30.537568800-07:00[America/Los_Angeles] 
+Username: test
+and Password: test 
+were entered into the login screen with  Great Success!
+
+******************
+
+At: 2021-06-06T17:38:33.416779300-07:00[America/Los_Angeles] 
+Username: test
+and Password: test 
+were entered into the login screen with  Great Success!
+
+******************
+
+At: 2021-06-06T17:47:12.840834700-07:00[America/Los_Angeles] 
+Username: test
+and Password: test 
+were entered into the login screen with  Great Success!
+
+******************
+
+At: 2021-06-06T17:48:43.978621100-07:00[America/Los_Angeles] 
+Username: test
+and Password: test 
+were entered into the login screen with  Great Success!
+
+******************
+
+At: 2021-06-06T17:53:15.486657800-07:00[America/Los_Angeles] 
+Username: test
+and Password: test 
+were entered into the login screen with  Great Success!
+
+******************
+
+At: 2021-06-06T17:57:45.473763200-07:00[America/Los_Angeles] 
+Username: test
+and Password: test 
+were entered into the login screen with  Great Success!
+
+******************
+
+At: 2021-06-06T17:59:12.245316300-07:00[America/Los_Angeles] 
+Username: test
+and Password: test 
+were entered into the login screen with  Great Success!
+
+******************
+
+At: 2021-06-06T23:35:39.773466400-07:00[America/Los_Angeles] 
+Username: test
+and Password: test 
+were entered into the login screen with  Great Success!
+

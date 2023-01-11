@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ButtonBar?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="800.0" prefWidth="1280.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Views_and_Controllers.CustomerInfoMainController">
+    <children>
+        <TableView fx:id="customerTable" layoutX="90.0" layoutY="150.0" prefHeight="500.0" prefWidth="1100.0" AnchorPane.rightAnchor="10.0">
+            <columns>
+                <TableColumn fx:id="id" prefWidth="150.0" text="Customer ID" />
+                <TableColumn fx:id="name" prefWidth="160.0" text="Customer Name" />
+                <TableColumn fx:id="address" prefWidth="338.0" text="Address" />
+                <TableColumn fx:id="postalCode" prefWidth="150.0" text="Postal Code" />
+                <TableColumn fx:id="phone" prefWidth="150.0" text="Phone Number" />
+            <TableColumn fx:id="state" prefWidth="150.0" text="State/Province" />
+            </columns>
+        </TableView>
+        <VBox layoutX="42.0" layoutY="245.0" spacing="50.0" AnchorPane.leftAnchor="15.0">
+            <children>
+                <Button fx:id="addCustButton" mnemonicParsing="false" onAction="#goToAddCustomer" prefWidth="140.0" text="Add Customer" />
+                <Button fx:id="updateCustButton" layoutX="10.0" layoutY="10.0" mnemonicParsing="false" onAction="#goToUpdateCustomer" prefWidth="140.0" text="Update Customer" />
+                <Button fx:id="delCustButton" layoutX="10.0" layoutY="35.0" mnemonicParsing="false" onAction="#deleteCustomer" prefWidth="140.0" text="Delete Customer" />
+            </children>
+        </VBox>
+        <Label fx:id="customerLabel" layoutX="428.0" layoutY="47.0" text="Customer  Records" AnchorPane.topAnchor="15.0">
+            <font>
+                <Font name="System Bold" size="48.0" />
+            </font>
+        </Label>
+        <ButtonBar layoutX="1070.0" layoutY="746.0" prefHeight="40.0" prefWidth="424.0" AnchorPane.bottomAnchor="15.0" AnchorPane.rightAnchor="15.0">
+            <buttons>
+                <Button fx:id="goBackButton" maxWidth="150.0" mnemonicParsing="false" onAction="#goToMain" prefWidth="150.0" text="Go To Main" />
+                <Button fx:id="exitButton" layoutX="135.0" layoutY="18.0" maxWidth="150.0" mnemonicParsing="false" onAction="#closeProgram" prefWidth="150.0" text="Exit Program">
+                    <opaqueInsets>
+                        <Insets />
+                    </opaqueInsets>
+                </Button>
+            </buttons>
+        </ButtonBar>
+    </children>
+</AnchorPane>
