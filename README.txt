@@ -3,15 +3,15 @@ This application is formally called:
 
 
 Author: Brian Nason
-Student Number: 001003011
+Student Number: xxxxxxxx
 Date: June 6th, 2021
 
 
 Contact Information:
-    eMail =     bnason1@my.wgu.edu
-    Phone =     (949) 533-7089
-    Address =   2515 Old Quarry Rd. Apt. 1323
-                San Diego, CA 92108
+    eMail =     xxxxxxx@my.wgu.edu
+    Phone =     (xxx) xxx-xxxxx
+    Address =   123 Main Street.
+                San Diego, CA xxxxx
 
 
 Application version Number:     02.27.100c
